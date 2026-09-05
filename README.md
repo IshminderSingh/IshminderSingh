@@ -15,8 +15,8 @@
 
 ### Tools I use
 
-`C++` `Python` `Java` `Git` `GitHub` `VS Code`
-`OpenCV` `TensorFlow` `Keras` `Scikit-learn`
+`C++` `Python` `Java` `GitHub` `VS Code`
+`OpenCV` `Premiere Pro`
 `Arduino` `ESP32` `Blender`
 
 ### How to reach me
