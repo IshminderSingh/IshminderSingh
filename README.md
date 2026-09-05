@@ -21,7 +21,7 @@
 
 ### How to reach me
 
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
+📧 **Email:** [ishmindersingh10619@gmail.com](mailto:ishmindersingh10619@gmail.com)
 💼 **LinkedIn:** Your LinkedIn
 🐙 **GitHub:** You're already here :)
 
